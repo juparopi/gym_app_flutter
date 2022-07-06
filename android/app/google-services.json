@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411198408519",
+    "project_id": "gymtrackerjuparopi-f0027",
+    "storage_bucket": "gymtrackerjuparopi-f0027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411198408519:android:3869c16113450f5132ae62",
+        "android_client_info": {
+          "package_name": "com.example.gym_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411198408519-asuqik23un550udkcu4bsooders2voh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi8cOMGWIh5s4wGDbZ2KcZTpX2OCn9veM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411198408519-asuqik23un550udkcu4bsooders2voh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
